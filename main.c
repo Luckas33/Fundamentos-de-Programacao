@@ -131,10 +131,13 @@ programa deve imprimir todos os valores armazenados.
 *///
 #include <stdio.h>
 
-int a,b,c;
+int a = 0,b = 1,c;
+int fib[50];
 
 int main(){
-  ffo
+  for(int i = 0;i < 50;i++)
+    c = a + b
+    a =   
 
   
   return 0;
