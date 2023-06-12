@@ -14,8 +14,8 @@ int main(){
 
   printf("Esta é a diagonal secundaria: ");
   
-  for(int i = 4;i >= 0;i--){
-     printf("[%d]", A[i][i]);    
+  for(int i = 0;i < 4;i++){
+     printf("[%d]", A[i][3 - i]);    
   }
 
   return 0;
