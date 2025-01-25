@@ -4,16 +4,16 @@ Este repositório contém exercícios e exemplos desenvolvidos durante o primeir
 
 ## 📚 Tópicos Abordados
 
-Looping: Estruturas de repetição (for, while, do-while).
-Strings: Manipulação de cadeias de caracteres.
-Vetores: Estruturas unidimensionais e suas aplicações.
-Funções: Modularização e organização do código.
-Matrizes: Estruturas bidimensionais.
-Registros: Uso de struct para agrupar dados.
+- **Looping**: Estruturas de repetição (for, while, do-while).
+- **Strings**: Manipulação de cadeias de caracteres.
+- **Vetores**: Estruturas unidimensionais e suas aplicações.
+- **Funções**: Modularização e organização do código.
+- **Matrizes**: Estruturas bidimensionais.
+- **Registros**: Uso de struct para agrupar dados.
 
 ## 🛠️ Requisitos
 
 Para executar os códigos deste repositório, você precisa de:
 
-Um compilador C (ex.: GCC, Clang, Dev-C++).
-Um ambiente de desenvolvimento C (opcional, ex.: Code::Blocks, Visual Studio Code).
+- Um compilador C (ex.: GCC, Clang, Dev-C++).
+- Um ambiente de desenvolvimento C (opcional, ex.: Code::Blocks, Visual Studio Code).
