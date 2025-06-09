@@ -1,19 +1,49 @@
-# Fundamentos de Programação
+# 📘 Fundamentos de Programação em C
 
-Este repositório contém exercícios e exemplos desenvolvidos durante o primeiro semestre do curso de Engenharia de Computação na Universidade Federal do Ceará (UFC). Os códigos são escritos em linguagem C e cobrem os principais tópicos introdutórios da programação.
+Repositório criado para o estudo progressivo dos principais conceitos da  **programação estruturada** , utilizando a  **linguagem C** .
 
-## 📚 Tópicos Abordados
+Organizado em pastas numeradas, cada uma aborda um tema específico, começando pela lógica de algoritmos até estruturas de dados mais complexas como `structs`.
 
-- **Looping**: Estruturas de repetição (for, while, do-while).
-- **Strings**: Manipulação de cadeias de caracteres.
-- **Vetores**: Estruturas unidimensionais e suas aplicações.
-- **Funções**: Modularização e organização do código.
-- **Matrizes**: Estruturas bidimensionais.
-- **Registros**: Uso de struct para agrupar dados.
+---
 
-## 🛠️ Requisitos
+## 📁 Estrutura do Repositório
 
-Para executar os códigos deste repositório, você precisa de:
+| Pasta              | Conteúdo                                                                               |
+| ------------------ | --------------------------------------------------------------------------------------- |
+| `0-Algoritmos`   | Introdução à lógica de programação com representações narrativas e em Portugol. |
+| `1-Sequenciais`  | Primeiros programas em C: entrada, processamento e saída.                              |
+| `2-Condicionais` | Estruturas de decisão com `if`,`else`, e `switch-case`.                          |
+| `3-Repetição`  | Laços de repetição:`for`,`while`e `do-while`.                                  |
+| `4-Strings`      | Manipulação de texto com arrays de `char`e funções da `<string.h>`.             |
+| `5-Funções`    | Modularização e reaproveitamento de código através de funções.                    |
+| `6-Vetores`      | Uso de arrays unidimensionais para armazenamento de dados homogêneos.                  |
+| `7-Matrizes`     | Trabalhando com arrays bidimensionais (tabelas).                                        |
+| `8-Registro`     | Estruturas `struct`para agrupar variáveis de diferentes tipos.                       |
 
-- Um compilador C (ex.: GCC, Clang, Dev-C++).
-- Um ambiente de desenvolvimento C (opcional, ex.: Code::Blocks, Visual Studio Code).
+---
+
+## 🛠️ Como Usar o Repositório
+
+#### 1. Clone o repositório
+
+git clone https://github.com/Luckas33/Fundamentos-de-Programacao
+
+#### 2. Acesse a pasta desejada
+
+cd nome-da-pasta
+
+#### 3. Compile o código (exemplo com GCC)
+
+gcc nome_do_arquivo.c -o nome_do_executavel
+
+#### 4. Execute
+
+./nome_do_executavel
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+* Linguagem **C**
+* Compilador **GCC**
+* Editor recomendado: **Visual Studio Code** com extensão C/C++
